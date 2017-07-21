@@ -1,1 +1,17 @@
+<<<<<<< HEAD
 theme: jekyll-theme-tactile
+=======
+url: https://www.shankerkaura.com
+
+# Site Settings
+title: Timeline
+description: "Timeline is multipurpose, single page Jekyll theme that includes a timeline section."
+keywords: "jekyll, theme"
+google-tracking-id:
+
+# Career Settings
+# Default career thumbnail image.
+career-img: "img/timeline/default.jpg"
+
+exclude: ["Rakefile", "LICENSE", "readme.markdown"]
+>>>>>>> 319e1303dcf2eeef2f254a62f247a71d01aa76cc
